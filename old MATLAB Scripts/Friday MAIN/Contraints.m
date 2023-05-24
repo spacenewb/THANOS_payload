@@ -1,0 +1,3 @@
+function [] = Contraints(x)
+    
+end
